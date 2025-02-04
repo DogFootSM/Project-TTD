@@ -7,7 +7,7 @@
 - 개발 도구 : Unity 2021.3.42f1 
 - 개발 언어 : C#
 - 기능 구현 :
-    - 캐릭터
+    - 캐릭터 관련 기능
 - 총 개발 기간 : 24.12.19 - 25.01.21
  
 # 2. 게임 규칙 
@@ -15,5 +15,5 @@
 - 던전 컨텐츠를 진행하며 재화 수집
 
 # 3. 영상 및 기술서
-- Notion : 
-- Youtube : 
+- Notion : https://complex-speedwell-5e2.notion.site/2D-RPG-15ef154c168680d8a7bfd2ca825d590b?pvs=4
+- Youtube : https://youtu.be/DMw8sIHcJh0?si=akaId08uXWJot4At
