@@ -15,5 +15,4 @@
 - 던전 컨텐츠를 진행하며 재화 수집
 
 # 3. 영상 및 기술서
-- Notion : https://complex-speedwell-5e2.notion.site/2D-RPG-15ef154c168680d8a7bfd2ca825d590b?pvs=4
 - Youtube : https://youtu.be/DMw8sIHcJh0?si=akaId08uXWJot4At
